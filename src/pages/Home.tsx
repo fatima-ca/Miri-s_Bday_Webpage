@@ -10,7 +10,7 @@ export default function Home() {
         {/* Contenido principal */}
         <div className="relative z-10 h-full flex flex-col items-center justify-center p-8 text-center">
           
-          {/* Miri*/}
+          {/* Imagen "Miri"*/}
           <img 
             src="mirititle.svg" 
             className="w-[600px] h-auto mb-6 md:mb-10"  // Más proporcional con h-auto
@@ -27,7 +27,7 @@ export default function Home() {
               <p className="lg:text-4xl font-bold italic leading-tight" style={{ color: '#80B9B1' }}>Alles Gute zum Geburtstag!</p>
             </div>
             
-            {/* Pastel - Ajuste de tamaño y animación */}
+            {/* Iamgen "pastel"*/}
             <div className="lg:w-1/2 flex justify-center">
               <img 
                 src="cake.svg" 
@@ -35,6 +35,7 @@ export default function Home() {
                 alt="Cake"
               />
             </div>
+
           </div>
         </div>
       </section>
@@ -42,7 +43,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gradient-to-r from-pink-500 to-purple-600 text-white py-6">
         <div className="container mx-auto text-center">
-          <p className="text-lg font-mono">© 2025 Miri's Birthday - Made with 💖</p>
+          <p className="text-lg font-mono">© 17-07-2025 Miri's Birthday - Made with 💖</p>
         </div>
       </footer>
     </div>
