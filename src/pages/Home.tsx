@@ -21,10 +21,10 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row items-center justify-center gap-6 lg:gap-16 w-full max-w-5xl">
             {/* Textos - Contenedor alineado */}
             <div className="lg:space-y-7 text-left lg:w-1/2">  {/* Alineación izquierda */}
-              <p className="lg:text-6xl font-bold italic leading-tight" style={{ color: '#80B9B1' }}>¡Feliz Cumple!</p>
-              <p className="lg:text-6xl font-bold italic leading-tight" style={{ color: '#80B9B1' }}>Happy Birthday!</p>
-              <p className="lg:text-7xl font-bold italic leading-tight" style={{ color: '#80B9B1' }}>생일 축하해</p>
-              <p className="lg:text-4xl font-bold italic leading-tight" style={{ color: '#80B9B1' }}>Alles Gute zum Geburtstag!</p>
+              <p className="lg:text-6xl font-bold italic leading-tight" style={{ color: '#bd1270' }}>¡Feliz Cumple!</p>
+              <p className="lg:text-6xl font-bold italic leading-tight" style={{ color: '#bf0000' }}>Happy Birthday!</p>
+              <p className="lg:text-7xl font-bold italic leading-tight" style={{ color: '#006375' }}>생일 축하해</p>
+              <p className="lg:text-4xl font-bold italic leading-tight" style={{ color: '#82eb39' }}>Alles Gute zum Geburtstag!</p>
             </div>
             
             {/* Iamgen "pastel"*/}
@@ -37,6 +37,13 @@ export default function Home() {
             </div>
 
           </div>
+          {/* Texto debajo de imagen */}
+          <p className="text-xl md:text-2xl font-mono text-gray-800 mt-4 mb-10">
+            Hola, Miri, hora México. Mi corazón de melón. 
+            Hoy cumples 20 añitos -ya estás muy grande TnT-, y la distancia no me puede impedir darte un regalo, aunque nada puede superar el regalo que me diste: tu amistad. 
+            Aún así intentaré competir con tu regalor y hacerte algo especial porque eres una persona especial UWU. Este es tu regalo, una página para tí, en colaboración de dos amistades más. 
+            Espero que te guste, aún no soy papupro en hacer páginas web TnT. Visita cada sección en orden, es tu única instrucción ;D.
+          </p>
         </div>
       </section>
 
