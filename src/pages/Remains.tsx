@@ -10,14 +10,14 @@ export default function Remains() {
           {/* Imagen "Cosas que pienso"*/}
           <img 
             src="pienso.svg" 
-            className="w-[500px] h-auto mb-6 md:mb-10"
+            className="w-[600px] h-auto mb-6 md:mb-10"
             alt="Miri"
           />
 
           {/* Imagen "Cuando pienso en miri"*/}
           <img 
             src="cuando.svg" 
-            className="w-[500px] h-auto mb-6 md:mb-10"
+            className="w-[600px] h-auto mb-6 md:mb-10"
             alt="Miri"
           />
 
@@ -74,13 +74,20 @@ export default function Remains() {
             </div>
           </div>
 
-          {/* Imagen "Cuando pienso en miri"*/}
+          {/* Imagen "Todo me recuerda a ti"*/}
           <img 
             src="11.svg" 
             className="w-[600px] h-auto mb-6 md:mb-10"
             alt="Miri"
           />
+
+          {/* Texto debajo de imagen */}
+          <p className="text-xl md:text-2xl font-mono text-gray-800 mt-4 mb-10">
+            Miri, estás presente en cada momento de mi vida. Eres como un rayo de sol que ilumina mis mañanas. Eres mi recuerdo favorito. Espero siempre formemos nuevos momentos juntas.
+          </p>
         </div>
+            
+
       </section>
 
       {/* Footer */}
