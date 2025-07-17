@@ -44,7 +44,7 @@ const Letter = () => {
                   {/* Imagen "Foto con Miri"*/}
                 <img 
                   src="foto.svg" 
-                  className="w-[200px] h-auto mb-6 md:mb-10"
+                  className="w-[340px] h-auto mb-6 md:mb-10"
                   alt="Miri"
                 />
                 <p className="text-right mt-6 text-gray-600 font-medium">
@@ -95,13 +95,12 @@ const Letter = () => {
                 <div className="text-gray-700 text-lg leading-relaxed text-left space-y-4">
                   <p>"Miri, come on" - By Att</p>
                   <iframe
-  src="https://drive.google.com/file/d/147Afx2DKNmpLSg5uefk_FraQzn8krY27/preview"
-  width="500" 
-  height="360"
- 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowFullScreen
-></iframe>
+                    src="https://drive.google.com/file/d/147Afx2DKNmpLSg5uefk_FraQzn8krY27/preview"
+                    width="500" 
+                    height="360"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
                   
                 </div>
                 <p className="text-right mt-6 text-gray-600 font-medium">

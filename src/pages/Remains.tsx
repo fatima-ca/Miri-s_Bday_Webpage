@@ -83,7 +83,7 @@ export default function Remains() {
 
           {/* Texto debajo de imagen */}
           <p className="text-xl md:text-2xl font-mono text-gray-800 mt-4 mb-10">
-            Miri, estás presente en cada momento de mi vida. Eres como un rayo de sol que ilumina mis mañanas. Eres mi recuerdo favorito. Espero siempre formemos nuevos momentos juntas.
+            Miri -hora México-, estás presente en cada momento de mi vida. Eres como un rayo de sol que ilumina mis mañanas. Eres mi recuerdo favorito. Espero siempre formemos nuevos momentos juntas.
           </p>
         </div>
             
