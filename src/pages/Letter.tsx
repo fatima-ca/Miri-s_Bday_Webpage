@@ -94,6 +94,14 @@ const Letter = () => {
               <div className="bg-blue-100 border-2 border-blue-300 rounded-lg p-6 md:p-8 w-full max-w-2xl">
                 <div className="text-gray-700 text-lg leading-relaxed text-left space-y-4">
                   <p>"Miri, come on" - By Att</p>
+                  <iframe
+  src="https://drive.google.com/file/d/147Afx2DKNmpLSg5uefk_FraQzn8krY27/preview"
+  width="500" 
+  height="360"
+ 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
                   
                 </div>
                 <p className="text-right mt-6 text-gray-600 font-medium">
