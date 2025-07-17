@@ -41,7 +41,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl font-mono text-gray-800 mt-4 mb-10">
             Hola, Miri, hora México -soy Fátima-. Mi corazón de melón. 
             Hoy cumples 20 añitos -ya estás muy grande TnT-, y la distancia no me puede impedir darte un regalo, aunque nada puede superar el regalo que me diste: tu amistad. 
-            Aún así intentaré competir con tu regalor y hacerte algo especial porque eres una persona especial UWU. Este es tu regalo, una página para tí, en colaboración de dos amistades más. 
+            Aún así intentaré competir con tu regalor y hacerte algo especial porque eres una persona especial UWU. Este es tu regalo, una página para tí, en colaboración de tus amistades. 
             Espero que te guste, aún no soy papupro en hacer páginas web TnT. Visita cada sección en orden, es tu única instrucción ;D.
           </p>
         </div>
