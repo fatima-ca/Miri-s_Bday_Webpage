@@ -61,6 +61,7 @@ const Letter = () => {
               <h1 className="text-3xl md:text-4xl font-bold mb-6 text-gray-800">
                 De: Xio
               </h1>
+              
               <div className="w-32 h-1 bg-purple-500 rounded-full mb-6"></div>
               <p className="text-xl text-gray-600">Para: Miri</p>
             </div>
@@ -69,8 +70,14 @@ const Letter = () => {
             <div className="flex items-center justify-center">
               <div className="bg-purple-100 border-2 border-purple-300 rounded-lg p-6 md:p-8 w-full max-w-2xl">
                 <div className="text-gray-700 text-lg leading-relaxed text-left space-y-4">
-                  <p>Hola Miri,</p>
+                  <p>"felis cum ex trans" - By Xio</p>
                 </div>
+                {/* Imagen "Dibujo de xio con Miri"*/}
+                <img 
+                  src="cumplexio.jpeg" 
+                  className="w-[490px] h-auto mb-6 md:mb-10"
+                  alt="Miri"
+                />
                 <p className="text-right mt-6 text-gray-600 font-medium">
                   17-07-2025
                 </p>
